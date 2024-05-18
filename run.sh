@@ -1,0 +1,1 @@
+docker run -itd --name wxbot -e WXBOT_ARGS="-q xxx" --network host registry.cn-shanghai.aliyuncs.com/jwping/wxbot:v1.10.1-9-3.9.8.25
